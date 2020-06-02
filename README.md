@@ -1,1 +1,1 @@
-# 100 Days of Leetcode (Golang)
+# 100 Days of Leetcode (Python)
